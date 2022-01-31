@@ -1,0 +1,106 @@
+﻿  Main.cpp
+C:\Users\joene\source\repos\DLL\DLL\List.h(23,7): error C2059:  syntax error: '<class-head>'
+C:\Users\joene\source\repos\DLL\DLL\List.h(23,12): error C2143:  syntax error: missing ';' before '{'
+C:\Users\joene\source\repos\DLL\DLL\List.h(23,12): error C2447:  '{': missing function header (old-style formal list?)
+C:\Users\joene\source\repos\DLL\DLL\List.h(50,11): error C2653:  'list': is not a class or namespace name
+C:\Users\joene\source\repos\DLL\DLL\List.h(50,14): error C4430:  missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\joene\source\repos\DLL\DLL\List.h(51,2): error C2065:  'head': undeclared identifier
+C:\Users\joene\source\repos\DLL\DLL\List.h(52,2): error C2065:  'tail': undeclared identifier
+C:\Users\joene\source\repos\DLL\DLL\List.h(53,1): warning C4508:  'list': function should return a value; 'void' return type assumed
+C:\Users\joene\source\repos\DLL\DLL\List.h(58,16): error C2653:  'list': is not a class or namespace name
+C:\Users\joene\source\repos\DLL\DLL\List.h(59,2): error C2065:  'node': undeclared identifier
+C:\Users\joene\source\repos\DLL\DLL\List.h(59,8): error C2065:  'curNode': undeclared identifier
+C:\Users\joene\source\repos\DLL\DLL\List.h(59,18): error C2065:  'head': undeclared identifier
+C:\Users\joene\source\repos\DLL\DLL\List.h(60,6): error C2065:  'head': undeclared identifier
+C:\Users\joene\source\repos\DLL\DLL\List.h(65,9): error C2065:  'curNode': undeclared identifier
+C:\Users\joene\source\repos\DLL\DLL\List.h(67,7): error C2065:  'curNode': undeclared identifier
+C:\Users\joene\source\repos\DLL\DLL\List.h(72,3): error C2065:  'curNode': undeclared identifier
+C:\Users\joene\source\repos\DLL\DLL\List.h(72,13): error C2065:  'curNode': undeclared identifier
+C:\Users\joene\source\repos\DLL\DLL\List.h(74,45): error C2065:  'curNode': undeclared identifier
+C:\Users\joene\source\repos\DLL\DLL\List.h(78,18): error C2653:  'list': is not a class or namespace name
+C:\Users\joene\source\repos\DLL\DLL\List.h(79,2): error C2065:  'node': undeclared identifier
+C:\Users\joene\source\repos\DLL\DLL\List.h(79,8): error C2065:  'newNode': undeclared identifier
+C:\Users\joene\source\repos\DLL\DLL\List.h(79,26): error C2061:  syntax error: identifier 'node'
+C:\Users\joene\source\repos\DLL\DLL\List.h(80,2): error C2065:  'newNode': undeclared identifier
+C:\Users\joene\source\repos\DLL\DLL\List.h(81,2): error C2065:  'newNode': undeclared identifier
+C:\Users\joene\source\repos\DLL\DLL\List.h(83,6): error C2065:  'head': undeclared identifier
+C:\Users\joene\source\repos\DLL\DLL\List.h(85,3): error C2065:  'head': undeclared identifier
+C:\Users\joene\source\repos\DLL\DLL\List.h(85,10): error C2065:  'newNode': undeclared identifier
+C:\Users\joene\source\repos\DLL\DLL\List.h(86,3): error C2065:  'tail': undeclared identifier
+C:\Users\joene\source\repos\DLL\DLL\List.h(86,10): error C2065:  'newNode': undeclared identifier
+C:\Users\joene\source\repos\DLL\DLL\List.h(90,3): error C2065:  'tail': undeclared identifier
+C:\Users\joene\source\repos\DLL\DLL\List.h(90,16): error C2065:  'newNode': undeclared identifier
+C:\Users\joene\source\repos\DLL\DLL\List.h(91,3): error C2065:  'newNode': undeclared identifier
+C:\Users\joene\source\repos\DLL\DLL\List.h(91,19): error C2065:  'tail': undeclared identifier
+C:\Users\joene\source\repos\DLL\DLL\List.h(92,3): error C2065:  'tail': undeclared identifier
+C:\Users\joene\source\repos\DLL\DLL\List.h(92,10): error C2065:  'newNode': undeclared identifier
+C:\Users\joene\source\repos\DLL\DLL\List.h(97,18): error C2653:  'list': is not a class or namespace name
+C:\Users\joene\source\repos\DLL\DLL\List.h(98,2): error C2065:  'node': undeclared identifier
+C:\Users\joene\source\repos\DLL\DLL\List.h(98,8): error C2065:  'curNode': undeclared identifier
+C:\Users\joene\source\repos\DLL\DLL\List.h(98,18): error C2065:  'head': undeclared identifier
+C:\Users\joene\source\repos\DLL\DLL\List.h(99,6): error C2065:  'head': undeclared identifier
+C:\Users\joene\source\repos\DLL\DLL\List.h(103,9): error C2065:  'curNode': undeclared identifier
+C:\Users\joene\source\repos\DLL\DLL\List.h(105,7): error C2065:  'curNode': undeclared identifier
+C:\Users\joene\source\repos\DLL\DLL\List.h(110,3): error C2065:  'curNode': undeclared identifier
+C:\Users\joene\source\repos\DLL\DLL\List.h(110,13): error C2065:  'curNode': undeclared identifier
+C:\Users\joene\source\repos\DLL\DLL\List.h(112,6): error C2065:  'curNode': undeclared identifier
+C:\Users\joene\source\repos\DLL\DLL\List.h(112,17): error C2065:  'head': undeclared identifier
+C:\Users\joene\source\repos\DLL\DLL\List.h(113,3): error C2065:  'node': undeclared identifier
+C:\Users\joene\source\repos\DLL\DLL\List.h(113,9): error C2065:  'temp': undeclared identifier
+C:\Users\joene\source\repos\DLL\DLL\List.h(113,16): error C2065:  'head': undeclared identifier
+C:\Users\joene\source\repos\DLL\DLL\List.h(114,3): error C2065:  'head': undeclared identifier
+C:\Users\joene\source\repos\DLL\DLL\List.h(114,10): error C2065:  'head': undeclared identifier
+C:\Users\joene\source\repos\DLL\DLL\List.h(115,10): error C2065:  'temp': undeclared identifier
+C:\Users\joene\source\repos\DLL\DLL\List.h(115,14): error C2541:  'delete': cannot delete objects that are not pointers
+C:\Users\joene\source\repos\DLL\DLL\List.h(116,7): error C2065:  'head': undeclared identifier
+C:\Users\joene\source\repos\DLL\DLL\List.h(117,4): error C2065:  'tail': undeclared identifier
+C:\Users\joene\source\repos\DLL\DLL\List.h(122,6): error C2065:  'curNode': undeclared identifier
+C:\Users\joene\source\repos\DLL\DLL\List.h(122,17): error C2065:  'tail': undeclared identifier
+C:\Users\joene\source\repos\DLL\DLL\List.h(124,3): error C2065:  'node': undeclared identifier
+C:\Users\joene\source\repos\DLL\DLL\List.h(124,9): error C2065:  'temp2': undeclared identifier
+C:\Users\joene\source\repos\DLL\DLL\List.h(124,17): error C2065:  'tail': undeclared identifier
+C:\Users\joene\source\repos\DLL\DLL\List.h(125,3): error C2065:  'tail': undeclared identifier
+C:\Users\joene\source\repos\DLL\DLL\List.h(125,10): error C2065:  'tail': undeclared identifier
+C:\Users\joene\source\repos\DLL\DLL\List.h(126,10): error C2065:  'temp2': undeclared identifier
+C:\Users\joene\source\repos\DLL\DLL\List.h(126,15): error C2541:  'delete': cannot delete objects that are not pointers
+C:\Users\joene\source\repos\DLL\DLL\List.h(129,2): error C2065:  'curNode': undeclared identifier
+C:\Users\joene\source\repos\DLL\DLL\List.h(129,24): error C2065:  'curNode': undeclared identifier
+C:\Users\joene\source\repos\DLL\DLL\List.h(130,2): error C2065:  'curNode': undeclared identifier
+C:\Users\joene\source\repos\DLL\DLL\List.h(130,24): error C2065:  'curNode': undeclared identifier
+C:\Users\joene\source\repos\DLL\DLL\List.h(134,9): error C2065:  'curNode': undeclared identifier
+C:\Users\joene\source\repos\DLL\DLL\List.h(134,16): error C2541:  'delete': cannot delete objects that are not pointers
+C:\Users\joene\source\repos\DLL\DLL\List.h(139,24): error C2653:  'list': is not a class or namespace name
+C:\Users\joene\source\repos\DLL\DLL\List.h(140,6): error C2065:  'head': undeclared identifier
+C:\Users\joene\source\repos\DLL\DLL\List.h(145,2): error C2065:  'node': undeclared identifier
+C:\Users\joene\source\repos\DLL\DLL\List.h(145,8): error C2065:  'curNode': undeclared identifier
+C:\Users\joene\source\repos\DLL\DLL\List.h(145,18): error C2065:  'head': undeclared identifier
+C:\Users\joene\source\repos\DLL\DLL\List.h(146,9): error C2065:  'curNode': undeclared identifier
+C:\Users\joene\source\repos\DLL\DLL\List.h(148,7): error C2065:  'curNode': undeclared identifier
+C:\Users\joene\source\repos\DLL\DLL\List.h(150,4): error C2065:  'node': undeclared identifier
+C:\Users\joene\source\repos\DLL\DLL\List.h(150,10): error C2065:  'newNode': undeclared identifier
+C:\Users\joene\source\repos\DLL\DLL\List.h(150,28): error C2061:  syntax error: identifier 'node'
+C:\Users\joene\source\repos\DLL\DLL\List.h(151,4): error C2065:  'newNode': undeclared identifier
+C:\Users\joene\source\repos\DLL\DLL\List.h(152,4): error C2065:  'newNode': undeclared identifier
+C:\Users\joene\source\repos\DLL\DLL\List.h(154,8): error C2065:  'curNode': undeclared identifier
+C:\Users\joene\source\repos\DLL\DLL\List.h(154,19): error C2065:  'head': undeclared identifier
+C:\Users\joene\source\repos\DLL\DLL\List.h(155,5): error C2065:  'head': undeclared identifier
+C:\Users\joene\source\repos\DLL\DLL\List.h(155,18): error C2065:  'newNode': undeclared identifier
+C:\Users\joene\source\repos\DLL\DLL\List.h(156,5): error C2065:  'newNode': undeclared identifier
+C:\Users\joene\source\repos\DLL\DLL\List.h(156,21): error C2065:  'head': undeclared identifier
+C:\Users\joene\source\repos\DLL\DLL\List.h(157,5): error C2065:  'head': undeclared identifier
+C:\Users\joene\source\repos\DLL\DLL\List.h(157,12): error C2065:  'newNode': undeclared identifier
+C:\Users\joene\source\repos\DLL\DLL\List.h(162,5): error C2065:  'curNode': undeclared identifier
+C:\Users\joene\source\repos\DLL\DLL\List.h(162,27): error C2065:  'newNode': undeclared identifier
+C:\Users\joene\source\repos\DLL\DLL\List.h(163,5): error C2065:  'newNode': undeclared identifier
+C:\Users\joene\source\repos\DLL\DLL\List.h(163,21): error C2065:  'curNode': undeclared identifier
+C:\Users\joene\source\repos\DLL\DLL\List.h(164,5): error C2065:  'curNode': undeclared identifier
+C:\Users\joene\source\repos\DLL\DLL\List.h(164,21): error C2065:  'newNode': undeclared identifier
+C:\Users\joene\source\repos\DLL\DLL\List.h(165,5): error C2065:  'newNode': undeclared identifier
+C:\Users\joene\source\repos\DLL\DLL\List.h(165,21): error C2065:  'curNode': undeclared identifier
+C:\Users\joene\source\repos\DLL\DLL\List.h(170,3): error C2065:  'curNode': undeclared identifier
+C:\Users\joene\source\repos\DLL\DLL\List.h(170,13): error C2065:  'curNode': undeclared identifier
+C:\Users\joene\source\repos\DLL\DLL\List.h(178,24): error C2653:  'list': is not a class or namespace name
+C:\Users\joene\source\repos\DLL\DLL\List.h(178,64): error C2084:  function 'bool insertBefore(std::string,int,std::string)' already has a body
+C:\Users\joene\source\repos\DLL\DLL\List.h(139): message :  see previous definition of 'insertBefore'
+C:\Users\joene\source\repos\DLL\DLL\List.h(179,6): error C2065:  'head': undeclared identifier
+C:\Users\joene\source\repos\DLL\DLL\List.h(179,5): error C1003:  error count exceeds 100; stopping compilation
